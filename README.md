@@ -7,9 +7,9 @@
 
 - 🌱 我目前正在学习 **Qt5 and JavaScript**
 
-- 👨‍💻 我的所有项目都在 [www.kclub.fun](www.kclub.fun)
+- 👨‍💻 我的所有项目都在 [https://www.kclub.fun](K CLUB)
 
-- 📝 我的博客链接 [www.kclub.fun](www.kclub.fun)
+- 📝 我的博客链接 [https://www.kclub.fun](K CLUB)
 
 - 💬 请随意问我 **Linux/Bash/C++/Docker**
 
