@@ -83,7 +83,6 @@
   </tr>
 
 <!-- Wakatime Readme States -->
-  <tr>
     <!--START_SECTION:waka-->
 
 ```text
@@ -100,6 +99,5 @@ HTML             2 mins          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
-  </tr>
 </table>
 
