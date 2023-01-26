@@ -83,12 +83,6 @@ HTML             2 mins          -------------------------   00.62 %
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smallki-d&locale=cn&hide_border&locale=cn&hide_border" alt="smallki-d" /></a>
     </td>
   </tr>  
-<!-- 曲线图 -->    
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
-    </td>
-  </tr>
 
 <!-- Wakatime Graph-->
   <tr>
@@ -99,6 +93,14 @@ HTML             2 mins          -------------------------   00.62 %
       <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/ab92ba58-0317-4fa4-a51b-38bd80093518.svg" width="500" alt=""/>
     </td>
   </tr>
+    
+<!-- 曲线图 -->    
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
+    </td>
+  </tr>
+    
 </table>
 
 
