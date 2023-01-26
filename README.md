@@ -84,7 +84,8 @@
 
 <!-- Wakatime Readme States -->
   <tr>
-   
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </tr>
 </table>
 
