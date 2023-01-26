@@ -82,22 +82,9 @@
     </td>
   </tr>
 
-<!-- Dynamic Heatmap -->
+<!-- Wakatime Readme States -->
   <tr>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/SmallKi-d/Heatmap/OUT_FOLDER/github.svg"  alt=""/>
-    </td>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/SmallKi-d/Heatmap/OUT_FOLDER/bilibili.svg"  alt=""/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/SmallKi-d/Heatmap/OUT_FOLDER/duolingo.svg" alt="">
-    </td>
-    <td>
-        <img src="https://cdn.jsdelivr.net/gh/SmallKi-d/Heatmap/OUT_FOLDER/leetcode.svg" alt="">
-    </td>
+   
   </tr>
 </table>
 
