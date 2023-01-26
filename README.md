@@ -53,36 +53,6 @@
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 </p>
 
-<table>
-<!-- 统计数据 -->
-  <tr>
-    <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smallki-d&show_icons=true&locale=cn&hide_border&theme=swift&title_color=1E90FF" alt="smallki-d" /></a>
-    </td>
-    <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smallki-d&locale=cn&hide_border&locale=cn&hide_border" alt="smallki-d" /></a>
-    </td>
-  </tr>  
-
-
-<!-- 曲线图 -->    
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
-    </td>
-  </tr>
-
-<!-- Wakatime Graph-->
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/b945224b-bc37-4778-a60c-87b016ce094a.svg" width="500" alt=""/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/ab92ba58-0317-4fa4-a51b-38bd80093518.svg" width="500" alt=""/>
-    </td>
-  </tr>
-</table>
-
 <!-- Wakatime Readme States -->
 
 <!--START_SECTION:waka-->
@@ -101,4 +71,34 @@ HTML             2 mins          -------------------------   00.62 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+<table>
+<!-- 统计数据 -->
+  <tr>
+    <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smallki-d&show_icons=true&locale=cn&hide_border&theme=swift&title_color=1E90FF" alt="smallki-d" /></a>
+    </td>
+    <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smallki-d&locale=cn&hide_border&locale=cn&hide_border" alt="smallki-d" /></a>
+    </td>
+  </tr>  
+<!-- 曲线图 -->    
+  <tr>
+    <td colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
+    </td>
+  </tr>
+
+<!-- Wakatime Graph-->
+  <tr>
+    <td>
+      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/b945224b-bc37-4778-a60c-87b016ce094a.svg" width="500" alt=""/>
+    </td>
+    <td>
+      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/ab92ba58-0317-4fa4-a51b-38bd80093518.svg" width="500" alt=""/>
+    </td>
+  </tr>
+</table>
+
 
