@@ -98,6 +98,6 @@ JSON             6 mins          >------------------------   01.48 %
 HTML             2 mins          -------------------------   00.62 %
 ```
 
-<!--END_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </table>
 
