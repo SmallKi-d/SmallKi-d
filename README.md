@@ -86,7 +86,7 @@ HTML             2 mins          -------------------------   00.62 %
 <!-- 曲线图 -->    
   <tr>
     <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
     </td>
   </tr>
 
