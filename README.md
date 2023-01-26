@@ -81,9 +81,11 @@
       <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/ab92ba58-0317-4fa4-a51b-38bd80093518.svg" width="500" alt=""/>
     </td>
   </tr>
+</table>
 
 <!-- Wakatime Readme States -->
-    <!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
 
 ```text
 From: 26 December 2022 - To: 25 January 2023
@@ -98,6 +100,5 @@ JSON             6 mins          >------------------------   01.48 %
 HTML             2 mins          -------------------------   00.62 %
 ```
 
-    <!--END_SECTION:waka-->
-</table>
+<!--END_SECTION:waka-->
 
