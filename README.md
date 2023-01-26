@@ -75,10 +75,10 @@
 <!-- Wakatime Graph-->
   <tr>
     <td>
-      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/08aa66da-f604-4ea3-8a93-2e0157cee165.svg" width="500" alt=""/>
+      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/b945224b-bc37-4778-a60c-87b016ce094a.svg" width="500" alt=""/>
     </td>
     <td>
-      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/b49ab78e-42bf-4877-827e-86b0007a94bb.svg" width="500" alt=""/>
+      <img src="https://wakatime.com/share/@7754294c-500c-4785-9fdc-86d5cb3952e0/ab92ba58-0317-4fa4-a51b-38bd80093518.svg" width="500" alt=""/>
     </td>
   </tr>
 
