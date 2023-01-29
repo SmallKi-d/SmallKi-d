@@ -58,15 +58,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 26 January 2023
+From: 28 December 2022 - To: 27 January 2023
 
-Total Time: 12 hrs 46 mins
+Total Time: 20 hrs 1 min
 
-Java             10 hrs 27 mins  ++++++++++++++++++++>----   81.90 %
-Python           1 hr 29 mins    +++----------------------   11.65 %
-C++              15 mins         >------------------------   01.96 %
-Text             11 mins         >------------------------   01.44 %
-Other            10 mins         >------------------------   01.40 %
+Java             17 hrs 25 mins  +++++++++++++++++++++>---   86.99 %
+Python           1 hr 29 mins    ++-----------------------   07.44 %
+GitIgnore file   18 mins         >------------------------   01.55 %
+C++              15 mins         >------------------------   01.25 %
+Text             11 mins         -------------------------   00.92 %
+Other            10 mins         -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
