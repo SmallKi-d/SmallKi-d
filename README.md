@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2023 - To: 15 June 2023
+From: 17 May 2023 - To: 16 June 2023
 
-Total Time: 7 hrs 47 mins
+Total Time: 4 hrs 32 mins
 
-C++                        2 hrs 35 mins   ++++++++>----------------   33.29 %
-Other                      1 hr 49 mins    ++++++-------------------   23.44 %
-Python                     1 hr 29 mins    +++++--------------------   19.12 %
-SCSS                       44 mins         ++>----------------------   09.47 %
-HTML                       43 mins         ++>----------------------   09.26 %
+C++              2 hrs 35 mins   ++++++++++++++-----------   56.97 %
+Other            1 hr 8 mins     ++++++-------------------   24.98 %
+Python           42 mins         ++++---------------------   15.77 %
+Markdown         2 mins          >------------------------   01.00 %
+ObjectiveC       2 mins          -------------------------   00.97 %
 ```
 
 <!--END_SECTION:waka-->
