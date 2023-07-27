@@ -58,12 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 24 July 2023
+From: 25 June 2023 - To: 25 July 2023
 
-Total Time: 2 mins
+Total Time: 2 hrs 27 mins
 
-C++     2 mins          +++++++++++++++++++++++++   99.84 %
-CMake   0 secs          -------------------------   00.16 %
+Python           2 hrs 22 mins   ++++++++++++++++++++++++>   97.00 %
+C++              2 mins          >------------------------   01.76 %
+GitIgnore file   1 min           >------------------------   01.02 %
+Other            0 secs          -------------------------   00.22 %
+CMake            0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
