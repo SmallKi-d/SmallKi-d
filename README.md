@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2023 - To: 29 July 2023
+From: 30 June 2023 - To: 30 July 2023
 
-Total Time: 2 hrs 27 mins
+Total Time: 4 hrs 14 mins
 
-Python           2 hrs 22 mins   ++++++++++++++++++++++++>   97.00 %
-C++              2 mins          >------------------------   01.76 %
-GitIgnore file   1 min           >------------------------   01.02 %
-Other            0 secs          -------------------------   00.22 %
-CMake            0 secs          -------------------------   00.00 %
+Python           3 hrs 58 mins   +++++++++++++++++++++++>-   93.70 %
+Jupyter          8 mins          +------------------------   03.15 %
+JavaScript       2 mins          >------------------------   01.15 %
+HTML             2 mins          >------------------------   01.00 %
+GitIgnore file   1 min           -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
