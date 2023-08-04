@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2023 - To: 01 August 2023
+From: 03 July 2023 - To: 02 August 2023
 
-Total Time: 4 hrs 24 mins
+Total Time: 4 hrs 47 mins
 
-Python           3 hrs 58 mins   ++++++++++++++++++++++>--   90.13 %
-Jupyter          8 mins          +------------------------   03.03 %
-SSH Key          4 mins          >------------------------   01.81 %
-SSH Config       4 mins          >------------------------   01.53 %
-JavaScript       2 mins          >------------------------   01.11 %
+Python           3 hrs 58 mins   ++++++++++++++++++++>----   82.90 %
+HTML             22 mins         ++-----------------------   07.77 %
+Jupyter          8 mins          >------------------------   02.79 %
+JavaScript       4 mins          >------------------------   01.72 %
+SSH Key          4 mins          >------------------------   01.66 %
 ```
 
 <!--END_SECTION:waka-->
