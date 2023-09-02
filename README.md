@@ -58,15 +58,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2023 - To: 30 August 2023
+From: 01 August 2023 - To: 31 August 2023
 
-Total Time: 35 mins
+Total Time: 25 mins
 
-HTML         21 mins         +++++++++++++++>---------   62.09 %
-SSH Key      4 mins          +++>---------------------   13.57 %
-SSH Config   4 mins          +++----------------------   11.51 %
-JavaScript   2 mins          +>-----------------------   05.69 %
-JSON         1 min           +------------------------   03.58 %
+HTML         21 mins         ++++++++++++++++++++++---   87.03 %
+JavaScript   2 mins          ++-----------------------   07.97 %
+Less         1 min           +------------------------   04.80 %
+Markdown     0 secs          -------------------------   00.20 %
 ```
 
 <!--END_SECTION:waka-->
