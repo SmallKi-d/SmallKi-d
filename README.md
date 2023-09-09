@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2023 - To: 06 September 2023
+From: 08 August 2023 - To: 07 September 2023
 
-Total Time: 3 hrs 31 mins
+Total Time: 5 hrs 15 mins
 
-CSS              1 hr 13 mins    ++++++++>----------------   34.56 %
-HTML             1 hr 3 mins     +++++++>-----------------   29.93 %
-Java             1 hr 2 mins     +++++++>-----------------   29.66 %
-XML              11 mins         +>-----------------------   05.61 %
-GitIgnore file   0 secs          -------------------------   00.23 %
+Java             2 hrs 22 mins   +++++++++++>-------------   45.11 %
+CSS              1 hr 39 mins    ++++++++-----------------   31.50 %
+HTML             1 hr 1 min      +++++--------------------   19.38 %
+XML              11 mins         +------------------------   03.76 %
+GitIgnore file   0 secs          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
