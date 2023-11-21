@@ -50,8 +50,8 @@
     <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
     <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="40" height="40"/></a>
     <a href="https://www.openwrt.org/" target="_blank" rel="noreferrer"><img src="https://wiki.friendlyelec.com/wiki/images/a/a4/Openwrt-icon.svg" alt="OpenWRT" width="40" height="40"/></a>
-    <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="Apple" width="33.6" height="40"/></a>
-    
+    <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="Apple" width="33.66" height="40"/></a>
+    <a href="https://smallki-d.github.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/SmallKi-d/SmallKi-d/master/images/24gl-ellipsis.svg" alt="Go to Blog" width="33.66" height="40"/></a>
 </p>
 
 <!-- Wakatime Readme States -->
