@@ -96,7 +96,7 @@ YAML             30 mins         >------------------------   02.07 %
 <!-- 曲线图 -->    
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SmallKi-d&theme=xcode&bg_color=FF000000&hide_border=true" alt=""/>
     </td>
   </tr>
     
