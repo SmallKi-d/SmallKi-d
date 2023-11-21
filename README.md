@@ -16,7 +16,7 @@
 
 - 🌱 我目前正在学习 **Qt5 and JavaScript**
 
-- 👨‍💻 我的所有项目都在 [K CLUB](https://www.kclub.fun)
+- 👨‍💻 我的所有项目都在 [SmallKi-d Repo]([https://www.kclub.fun](https://github.com/SmallKi-d?tab=repositories))
 
 - 📝 我的博客链接 [K CLUB](https://www.kclub.fun)
 
