@@ -32,10 +32,11 @@
 
 <h3 align="center">联系我☎️</h3>
 <p align="center">
-<a href="https://dev.to/smallkid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="smallkid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19734530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19734530" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/smallki-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="smallki-d" height="30" width="40" /></a>
-<a href="https://discord.gg/SmallKid#4549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SmallKid#4549" height="30" width="40" /></a>
+    <a href="https://github.com/smallki-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smallkid" height="30" width="40" /></a>
+    <a href="https://qm.qq.com/q/bcvDAwl3TG" target="blank"><img align="center" src="https://worldvectorlogo.com/zh/download/tencent-qq.svg" alt="19734530" height="30" width="40" /></a>
+    <a href="https://t.me/smallkidOwO" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="smallki-d" height="30" width="40" /></a>
+    <a href="https://t.me/smallkidOwO" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="smallki-d" height="30" width="40" /></a>
+    <a href="https://discord.gg/SmallKid#4549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SmallKid#4549" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">常用工具列表🔧</h3>
