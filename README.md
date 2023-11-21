@@ -79,7 +79,7 @@ YAML             30 mins         >------------------------   02.07 %
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smallki-d&show_icons=true&locale=cn&hide_border&theme=swift&title_color=1E90FF" alt="smallki-d" /></a>
     </td>
     <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smallki-d&locale=cn&hide_border&locale=cn&hide_border" alt="smallki-d" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=smallki-d&hide_border=true&locale=zh_Hans&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
     </td>
   </tr>  
 
