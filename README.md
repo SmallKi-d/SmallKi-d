@@ -14,7 +14,7 @@
 
 **关于我**
 
-- 🌱 我目前正在学习 **Qt5 and JavaScript**
+- 🌱 我目前正在学习 **JavaWeb主流框架 和 ML**
 
 - 👨‍💻 我的所有项目都在 [SmallKi-d Repo](https://github.com/SmallKi-d?tab=repositories)
 
@@ -23,8 +23,6 @@
 - 💬 请随意问我 **Linux/Bash/Java/Docker/NAS AIO相关/软路由玩法/PT**
 
 - 📫 我的电子邮箱 **1502598781@qq.com**
-
-- 🐧 我的QQ [1502598781](https://w.4rxb.com/s/dtoyka)
 
 - 📄 Resume/CV **在写了！**
 
