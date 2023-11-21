@@ -33,25 +33,25 @@
 <h3 align="center">联系我☎️</h3>
 <p align="center">
     <a href="https://github.com/smallki-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smallkid" height="30" width="40" /></a>
-    <a href="https://qm.qq.com/q/bcvDAwl3TG" target="blank"><img align="center" src="https://worldvectorlogo.com/zh/download/tencent-qq.svg" alt="19734530" height="30" width="40" /></a>
+    <a href="https://qm.qq.com/q/bcvDAwl3TG" target="blank"><img align="center" src="https://raw.githubusercontent.com/SmallKi-d/SmallKi-d/master/images/tencent-qq.svg" alt="19734530" height="30" width="40" /></a>
     <a href="https://t.me/smallkidOwO" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="smallki-d" height="30" width="40" /></a>
-    <a href="https://t.me/smallkidOwO" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="smallki-d" height="30" width="40" /></a>
+    <a href="https://space.bilibili.com/38091588" target="blank"><img align="center" src="https://raw.githubusercontent.com/SmallKi-d/SmallKi-d/master/images/bilibili.svg" alt="smallki-d" height="30" width="40" /></a>
     <a href="https://discord.gg/SmallKid#4549" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SmallKid#4549" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">常用工具列表🔧</h3>
 <p align="center">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>    
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>    
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>    
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>    
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+    <a href="https://bell-sw.com/libericajdk/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://hexo.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/hexo.svg" alt="hexo" width="40" height="40"/></a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="BootStrap" width="40" height="40"/></a>
+    <a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-plain.svg" alt="Debian" width="40" height="40"/></a>
+    <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" width="40" height="40"/></a>
+    <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPi" width="40" height="40"/></a>
+    <a href="https://www.openwrt.org/" target="_blank" rel="noreferrer"><img src="https://wiki.friendlyelec.com/wiki/images/a/a4/Openwrt-icon.svg" alt="OpenWRT" width="40" height="40"/></a>
+    <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" alt="Apple" width="33.6" height="40"/></a>
+    
 </p>
 
 <!-- Wakatime Readme States -->
