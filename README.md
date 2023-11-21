@@ -20,13 +20,13 @@
 
 - 📝 我的博客链接 [K CLUB](https://www.kclub.fun)
 
-- 💬 请随意问我 **Linux/Bash/C++/Docker**
+- 💬 请随意问我 **Linux/Bash/Java/Docker/NAS AIO相关/软路由玩法/PT**
 
 - 📫 我的电子邮箱 **1502598781@qq.com**
 
 - 🐧 我的QQ [1502598781](https://w.4rxb.com/s/dtoyka)
 
-- 📄 Resume/CV **还没有**
+- 📄 Resume/CV **在写了！**
 
 - ⚡ 有趣的事实 **聊天喜欢秒回党**
 
