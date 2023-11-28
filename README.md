@@ -18,7 +18,7 @@
 
 - 👨‍💻 我的所有项目都在 [SmallKi-d Repo](https://github.com/SmallKi-d?tab=repositories)
 
-- 📝 我的博客链接 [K CLUB](https://www.kclub.fun)
+- 📝 我的博客链接 [K CLUB](https://blog.kclub.tech)
 
 - 💬 请随意问我 **Linux/Bash/Java/Docker/NAS AIO相关/软路由玩法/PT**
 
