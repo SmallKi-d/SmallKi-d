@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.kclub.fun"><img src="images/logo.png" alt=""></a></p>
+<p align="center"><a href="https://blog.kclub.tech"><img src="images/logo.png" alt=""></a></p>
 
 <p align="center">
     <a href="https://git.io/typing-svg">
