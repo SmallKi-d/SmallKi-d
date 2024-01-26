@@ -9,6 +9,8 @@
 
 <h1 align="center">Hi 👋, 这里是 迷失的小K</h1>
 <h3 align="center">一名努力进步的普通在校大学生📖</h3>
+<h3 align="center">关注与被关注者的所有政治与思想观点与本人无关。</h3>
+<h3 align="center">All political and ideological views of the people following and being followed have nothing to do with me.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smallki-d&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" alt="smallki-d" /></a> </p>
 
