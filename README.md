@@ -58,11 +58,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2025 - To: 23 April 2025
+From: 25 March 2025 - To: 24 April 2025
 
-Total Time: 9 mins
+Total Time: 26 mins
 
-XML   9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+Other   17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.52 %
+XML     9 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.48 %
 ```
 
 <!--END_SECTION:waka-->
