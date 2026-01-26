@@ -12,7 +12,7 @@
 <h3 align="center">关注与被关注者的所有政治与意识形态与本人无关。</h3>
 <h3 align="center">I am not responsible for the political or ideological views of those who follow me or whom I follow.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smallki-d&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" alt="smallki-d" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SmallKi-d&theme=darkhub" alt="smallki-d" /></a> </p>
 
 **关于我**
 
