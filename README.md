@@ -16,13 +16,13 @@
 
 **关于我**
 
-- 🌱 我目前正在学习 **JavaWeb主流框架 和 ML**
+- 🌱 我目前正在学习 **Golang 和 AIOps**
 
 - 👨‍💻 我的所有项目都在 [SmallKi-d Repo](https://github.com/SmallKi-d?tab=repositories)
 
 - 📝 我的博客链接 [K CLUB](https://blog.kclub.tech)
 
-- 💬 请随意问我 **Linux/Bash/Java/Python AI/Docker/NAS AIO相关/软路由玩法/PT**
+- 💬 请随意问我 **Linux/Bash/Java/GO/ K8S/NAS相关/软路由/PT**
 
 - 📫 我的电子邮箱 **1502598781@qq.com**
 
