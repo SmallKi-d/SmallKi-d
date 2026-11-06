@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, 这里是 迷失的小K</h1>
-<h3 align="center">一名努力进步的普通在校大学生📖</h3>
+<h3 align="center">一名努力进步的普通 SRE 工程师📖</h3>
 <h3 align="center">关注与被关注者的所有政治与意识形态与本人无关。</h3>
 <h3 align="center">I am not responsible for the political or ideological views of those who follow me or whom I follow.</h3>
 
